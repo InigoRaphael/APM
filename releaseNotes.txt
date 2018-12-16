@@ -1,0 +1,156 @@
+Copyright ©2009-2018 Enterprise Architecture Solutions Ltd.
+
+This file is part of Essential Architecture Manager, the Essential Meta Model and The Essential Project.
+
+Essential Architecture Manager is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or any later version.
+
+Essential Architecture Manager is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Essential Architecture Manager.  If not, see <http://www.gnu.org/licenses/>.
+
+Release Notes:
+=====================================
+19.02.2018		Version 6.2
+Minor update to the Essential Meta Model and Essential Viewer.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+=====================================
+02.02.2018		Version 6.1.2
+Minor update to the Essential Meta Model and Essential Viewer.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+=====================================
+28.11.2017		Version 6.1.1
+Minor update to the Essential Meta Model, Essential Viewer and the Essential Import Utility.
+
+Essential Import Utility gains capability to import XML source content in addition to CSV and 
+Microsoft Excel documents
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+
+
+=====================================
+21.03.2017		Version 6.0
+Major update to the Essential Meta Model.
+
+Range of new classes to support the new Essential Viewer plus many new modelling features.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+
+
+=====================================
+21.01.2016		Version 5.0.5
+Major update to the Essential Meta Model.
+
+Range of new classes to support the new Essential Viewer plus many new modelling features.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+
+=====================================
+03.12.2013		Version 4.3.1
+Minor release to update the Essential Meta Model
+
+Updated the AFI_DATA_MAPPING_RELATION class.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+
+=====================================
+14.11.2013		Version 4.3
+Minor release to update the Essential Meta Model
+
+Updated the Report Language, Contract and Application Function Implementation classes. 
+Added new class AFI_DATA_MAPPING_RELATION class.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+
+=====================================
+25.10.2013		Version 4.2
+Minor release to update the Essential Meta Model
+
+Updated the Information Representation and Information Representation Attribute class to enable modelling of source Data Representations and Information Representations at both object and attribute level
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+=====================================
+18.09.2013		Version 4.1
+Minor release to update the Essential Meta Model
+
+Fixed bugs identified in EMM 4.0 and added new features for controlling Report Styling, ability to relate multiple Data Representations to the APPPRO_TO_INFOREP_TO_DATAREP_RELATION. 
+New Project Lifecycle Status added to recognise projects that have completed the Close phase and are now closed.
+Data Categories have definitions, Application class renamed to Application_Family. Added new Record_Management_Policy class as a subclass of Info_Data_Management_Policy
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+--------------------------------------
+08.03.2012		Version 4.0
+Major update to the Essential Meta Model.
+
+Fixed bugs identified in EMM 3.0.5 and many new capabilities added to the EA Support section.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+--------------------------------------
+15.08.2012		Version 3.0.5
+Minor release update to the Essential Meta Model.
+
+Fixes bugs identified in EMM 3.0.4 plus new capabilities. This is the first update to Essential Meta Model 3 to be released.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+--------------------------------------
+15.05.2012		Version 3.0.4
+Major update to the Essential Meta Model.
+
+Versions 2.x - 3.0.3 were released to limited audiences, and version 3.0.4 is the first full release of the Essential Meta Model 3.
+
+Further release notes are available on the Essential Project website at:
+http://www.enterprise-architecture.org/documentation/doc-release-notes
+
+-------------------------------------
+24.02.2010		Version 1.2
+Update to the Essential Meta Model to fix some bugs and inconsistencies in the meta model.
+
+1. Technology Architecture Principles now have a rationale slot and this has been removed from the Technology Architecture Objective class, making it consistent with the Principles and Objectives in the other layers.
+
+2. Business Objective to Business Capability relationship added to the Business Objective and Business Capability classes. This relationship enables the modeller to capture the objectives that are supported by a capability and vice versa.
+
+3. Relationship between Business Processes (and Business Activities) and Business Capabilities changed from single to multiple cardinality. This enables a process (and/or an activity) to support more than one capability.
+
+4. Update to define relationship between Information View Attributes and Information Representation Attributes has been included.
+
+The update for ECP-3 has been added to the baseline meta model, which enables a reference to external documentation to be added to any instance of any class in the meta model.
+
+----------------------------------- 
+15.06.2009		Version 1.1
+Update to the Essential Meta Model in support of Essential Integration Server.
+This version includes the 'EA_Relation External Repository Slots' meta model update, that adds the required slots to the relationship classes to enable the importing of a complete Essential repository.
+
+-----------------------------------
+13.02.2009		Version 1.0
+Essential Meta Model v1.0 released.
+Please report all bugs and issues to the Essential Project, via the Forums.
+http://www.enterprise-architecture.org/forums
